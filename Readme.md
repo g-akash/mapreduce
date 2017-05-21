@@ -27,7 +27,7 @@ You can directly ping me if you would like to extend it. Ideally I would like to
 
 ## Authors
 
-* **akash**  - [PurpleBooth](https://github.com/g-akash)
+* **akash**  - [akash](https://github.com/g-akash)
 
 
 
